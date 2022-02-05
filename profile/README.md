@@ -18,7 +18,6 @@ Telegram Bots & channels:
 
 Generic UNICT projects:
 - [unict-telegram-channels-groups](https://unict-dmi.github.io/unict-telegram-channels-groups/#/home)
-- [OpenJob DMI](https://github.com/UNICT-DMI/open-job-dmi)
 - [OPIS Manager](https://unict-dmi.github.io/OPIS-Manager/#/)
 - [UNICT-Elezioni](https://unict-dmi.github.io/UNICT-Elezioni/#/home)
 - [Elezioni Universitarie doc](https://unict-dmi.github.io/Elezioni-Universitarie/home)
