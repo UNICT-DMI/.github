@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-Join our Telegram group and start to contribute 😉
-
-https://t.me/+QUbs3tgk4kqPyhEY
-
-Check our projects!
-
+[Check our projects in the catalogue](https://github.com/azerothcore/git-catalogue) and [join our Telegram group](https://t.me/+QUbs3tgk4kqPyhEY) and start to contribute 😉
+<!--
 Telegram Bots & channels:
 - [@DMI_Bot](https://t.me/DMI_Bot)
 - [@Spotted_DMI_Bot](https://t.me/Spotted_DMI_Bot) & [@Spotted_DMI](https://t.me/Spotted_DMI)
@@ -28,3 +24,4 @@ Work in progress projects (we need contributors!):
 - [Gazzetta UNICT](https://github.com/UNICT-DMI/GazzettaUniCT)
 - [UNICT Elezioni Bot](https://github.com/UNICT-DMI/UNICT-Elezioni-bot) not mantained.
 - [Studium Bot](https://github.com/UNICT-DMI/Telegram-Studium-Bot) not mantained.
+-->
