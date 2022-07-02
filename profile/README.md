@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Check our projects in the catalogue](https://unict-dmi.github.io/git-catalogue/#/home) and [join our Telegram group](https://t.me/+QUbs3tgk4kqPyhEY) and start to contribute 😉
+[Check our projects in the catalogue](https://unict-dmi.github.io/git-catalogue/#/home), [join our Telegram group](https://t.me/+QUbs3tgk4kqPyhEY) and start to contribute 😉
 <!--
 Telegram Bots & channels:
 - [@DMI_Bot](https://t.me/DMI_Bot)
